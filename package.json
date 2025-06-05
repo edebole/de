@@ -1,0 +1,9 @@
+{
+  "name": "DataExtraction",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "playwright": "^1.52.0"
+  }
+}
